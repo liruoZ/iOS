@@ -1,0 +1,6 @@
+一、苹果近两年WWDC都发布了什么新技术?
+答：
+2014年
+1、OSX10.10 Yosemite。2、iOS8。3、全新编程语言Swift。4、Metal 3D。5、HomeKit。6、SpriteKit。7新版SDK。8、Xcode
+2015年
+1、OS X EL Capitan。2、iOS 9。3、Swift 2。4、watchOS 2。5、Apple Music
